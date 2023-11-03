@@ -1,6 +1,6 @@
 # 30-Day-Map-Challenge-2023
 
-![30DayMapChallenge.com]( "Map Themes")
+![30DayMapChallenge.com](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Themes.png "Map Themes")
 
 This is my second year doing this challenge! You can check out last years repo [here](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022). This year I'm having to do this alongside a full time job so I have no idea how it will go timings wise but I'll be attempting every map anyway.
 You can find all my code here in this repo, but feel free to follow my progress on my socials:
