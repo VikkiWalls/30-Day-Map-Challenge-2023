@@ -6,7 +6,7 @@ This is my second year doing this challenge! You can check out last years repo [
 You can find all my code here in this repo, but feel free to follow my progress on my socials:
 * [Mastodon](https://tech.lgbt/@DataScienceNot2)
 * [Instagram](https://www.instagram.com/datasciencenot2/)
-* [Twitter](https://twitter.com/datasciencenot2)
+* [X](https://twitter.com/datasciencenot2)
 
 Interactive maps can be found on my 30 Day Map Challenge 2023 [site]()
 
