@@ -180,17 +180,23 @@
 }
 
 /* The about link: 20px from the top with a green background */
-#about {
+#github {
   top: 20px;
   background-color: #44344c;
 }
 
-#blog {
+#instagram {
   top: 80px;
   background-color: #44344c; /* Blue */
 }
 
-#projects {
+#mastodon {
   top: 140px;
   background-color: #44344c; /* Red */
 }
+
+#x {
+    top: 200px;
+    background-color: #44344c; /* Red */
+  }
+  
