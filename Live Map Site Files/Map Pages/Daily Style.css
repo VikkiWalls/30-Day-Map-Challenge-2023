@@ -1,0 +1,326 @@
+/*Page Background Colour*/
+
+/*Text Colour Settings*/
+.title {
+    text-align: center;
+    position: relative;
+    color:#b8a3bb;
+    font-size: 50px;
+    font-family:'Courier New', monospace;
+  }
+
+.pgtitle{
+  text-align: center;
+    position: relative;
+    color:#b8a3bb;
+    font-size: 30px;
+    font-family:'Courier New', monospace;
+}
+  h1{
+    color: #b8a3bb;
+    font-size: 45px;
+    font-family:'Courier New', monospace;
+  }
+  h2{
+    color: #b8a3bb;
+    font-size: 40px;
+    font-family:'Courier New', monospace;
+  }
+  h3{
+    color: #b8a3bb;
+    font-size: 30px;
+    font-family:'Courier New', monospace;
+  }
+  h4{
+    color:#b8a3bb;
+    font-size: 30px;
+    font-family:'Courier New', monospace;
+  }
+  h5{
+    color: #b8a3bb;
+    font-size: 25px;
+    font-family:'Courier New', monospace;
+  }
+  h6{
+    color: #b8a3bb;
+    font-size: 20px;
+    font-family:'Courier New', monospace;
+  }
+  p{
+    color: #b8a3bb;
+    font-size: 20px;
+    font-family:'Courier New', monospace;
+  }
+  a{
+    color: #b8a3bb;
+    font-size: 20px;
+    font-family:'Courier New', monospace;
+  }
+  ul{
+    color: #b8a3bb;
+    font-size: 20px;
+    font-family:'Courier New', monospace;
+  }
+
+.Logo{
+  position: relative;
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%  ;
+  -webkit-border-radius: 50%  ;
+  -moz-border-radius: 50%  ;
+  -ms-border-radius: 50%  ;
+  -o-border-radius: 50%  ;
+}
+
+/*Formatting projects page*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333333;
+  padding: 20px;
+  font-family: Arial;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: #292929;
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+/* Style the links inside the sidenav */
+#mySidenav a {
+position: absolute; /* Position them relative to the browser window */
+left: -80px; /* Position them outside of the screen */
+transition: 0.3s; /* Add transition on hover */
+padding: 15px; /* 15px padding */
+width: 125px; /* Set a specific width */
+text-decoration: none; /* Remove underline */
+font-size: 20px; /* Increase font size */
+color: #44344c; /* White text color */
+border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+}
+
+#mySidenav a:hover {
+left: 0; /* On mouse-over, make the elements appear as they should */
+color: #b8a3bb; /* White text color */
+}
+
+/* The about link: 20px from the top with a green background */
+#about {
+top: 20px;
+background-color: #44344c;
+}
+
+#blog {
+top: 80px;
+background-color: #44344c; /* Blue */
+}
+
+#projects {
+top: 140px;
+background-color: #44344c; /* Red */
+}
+
+.block {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+border: 2px solid #44344c;
+border-radius: 30px;
+background-color: #44344c;
+padding: 14px 28px;
+font-size: 16px;
+font-family: 'Courier New', monospace;
+color: #b8a3bb;
+text-decoration: none;
+cursor: pointer;
+text-align: center;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+-ms-border-radius: 30px;
+-o-border-radius: 30px;
+}
+
+.hover:hover {
+background-color: #322b36;
+color: #705f75;
+}
+
+img:hover {
+box-shadow: 0 0 2px 1px rgba(184, 163, 187, 1);
+}
+
+.Day {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 17%;
+border: 2px solid #44344c;
+border-radius: 30px;
+background-color: #44344c;
+padding: 14px 28px;
+font-size: 16px;
+font-family: 'Courier New', monospace;
+color: #b8a3bb;
+text-decoration: none;
+cursor: pointer;
+text-align: center;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+-ms-border-radius: 30px;
+-o-border-radius: 30px;
+}
+
+.home {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 7%;
+  border: 2px solid #44344c;
+  border-radius: 30px;
+  background-color: #44344c;
+  padding: 14px 28px;
+  font-size: 16px;
+  font-family: 'Courier New', monospace;
+  color: #b8a3bb;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  }
+
+  .greenmap {
+    position:static;
+    left: 50%;
+    top: 50%;
+    transform: translate(10%, 0%);
+    width: xxx;/*Anywidthwillbefine*/
+    height: xxx ; /* Any height will be fine*/
+    -webkit-transform: translate(10%, 0%);
+    -moz-transform: translate(10%, 0%);
+    -ms-transform: translate(10%, 0%);
+    -o-transform: translate(10%, 0%);
+}
+
+.redmap {
+  position:static;
+  left: 50%;
+  top: 50%;
+  transform: translate(12%, 0%);
+  width: xxx;
+  /*Anywidthwillbefine*/height: xxx ;
+  /*Anyheightwillbefine*/-webkit-transform: translate(12%, 0%);
+  -moz-transform: translate(12%, 0%);
+  -ms-transform: translate(12%, 0%);
+  -o-transform: translate(12%, 0%);
+  -webkit-transform: translate(12%, 0%);
+}
+
+.music {
+  margin: 8px -16px;
+  position:static;
+  left: 50%;
+  top: 50%;
+  transform: translate(27%, 0%);
+  width: xxx;
+  /*Anywidthwillbefine*/height: xxx ;
+  /*Anyheightwillbefine*/-webkit-transform: translate(12%, 0%);
+  -moz-transform: translate(27%, 0%);
+  -ms-transform: translate(27%, 0%);
+  -o-transform: translate(27%, 0%);
+  -webkit-transform: translate(27%, 0%);
+}
+
+.volc{
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  display: block;
+}
+
+.volc:hover {
+  box-shadow: 0 0 2px 1px #333333;
+  }
+
+
+  
+.river:hover {
+  box-shadow: 0 0 2px 1px #333333;
+  }
+
+  .goal{
+    text-align: center;
+  }
+
+
+.Logo{
+  position: relative;
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%  ;
+  -webkit-border-radius: 50%  ;
+  -moz-border-radius: 50%  ;
+  -ms-border-radius: 50%  ;
+  -o-border-radius: 50%  ;
+}
