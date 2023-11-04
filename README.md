@@ -27,7 +27,7 @@ Interactive maps can be found on my 30 Day Map Challenge 2023 [site]()
 
 ## Daily Themes:
 1. ### Points
-
+[Live Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-2023-Live/Day%201.html)
 ![Points Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%201.png?raw=true "Day 1 - Points Map")
 
 #### Plan:
