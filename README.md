@@ -20,6 +20,9 @@ Interactive maps can be found on my 30 Day Map Challenge 2023 [site](https://vik
 ***
 
 ## Skills and Technologies Used During the Challenge
+* Python
+* HTML
+* CSS
 
 ### New Languages and Software:
 
