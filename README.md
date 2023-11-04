@@ -54,20 +54,20 @@ Plot the highest peaks, most prominent peaks and most isolated peaks of the Rock
 [Back to top](#30-day-map-challenge-2023)
 
 2. ### Lines
-[Live Map]()
-![Lines Map]( "Day 2 - Lines Map")
+![Lines Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%202.png?raw=true "Day 2 - Lines Map")
 
 #### Plan:
-
+Plot the walking paths around the City of London in an artistic way
 
 #### Key Skills/Technologies used:
-* 
+* Python
+    * Osmnx
+    * Matplotlib
 
 #### Code and Data:
 [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%202.ipynb)
-[Data]()
 
 #### Notes:
-* 
+* Inspired by last year's network [map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#network)
 
 [Back to top](#30-day-map-challenge-2023)
