@@ -8,7 +8,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 * [Instagram](https://www.instagram.com/datasciencenot2/)
 * [X](https://twitter.com/datasciencenot2)
 
-Interactive maps can be found on my 30 Day Map Challenge 2023 [site]()
+Interactive maps can be found on my 30 Day Map Challenge 2023 [site](https://vikkiwalls.github.io/30-Day-Map-Challenge-2023-Live/)
 
 ***
 [Day 1](#points)  ¦  [Day 2](#lines)   ¦  [Day 3](#polygons)   ¦  [Day 4](#a-bad-map) ¦  [Day 5](#analog-map) ¦  [Day 6](#asia) ¦  [Day 7](#navigation)  ¦  [Day 8](#africa)  ¦  [Day 9](#hexagons)   ¦  [Day 10](#north-america)
