@@ -28,18 +28,24 @@ Interactive maps can be found on my 30 Day Map Challenge 2023 [site]()
 ## Daily Themes:
 1. ### Points
 
-![]( "Day 1 - Points Map")
+![Points Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%201.png?raw=true "Day 1 - Points Map")
 
 #### Plan:
-
+Plot the highest peaks, most prominent peaks and most isolated peaks of the Rocky Mountains
 
 #### Key Skills/Technologies used:
-
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Plotly
 
 #### Code and Data:
-
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%201.ipynb)
+[Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/tree/main/Other%20Files/Hand%20Collated%20Data)
 
 #### Notes:
-
+* Goal was for map to achieves something that looked reasonably good quite quickly as I was already a couple of days behind on the challenge when I made it.
+* I re used the Mapbox Studio base map I hand built for last year's colour Friday [(Blue)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#colour-friday-blue) map.
 
 [Back to top](#30-day-map-challenge-2023)
