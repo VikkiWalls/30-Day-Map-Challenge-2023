@@ -74,21 +74,22 @@ Plot the walking paths around the City of London in an artistic way
 [Back to top](#30-day-map-challenge-2023)
 
 3. ### Polygons
-![Polygons Map]( "Day 3 - Polygons Map")
+![Polygons Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%203.png?raw=true "Day 3 - Polygons Map")
 
 #### Plan:
-Map the islands of Orkney using some of the steps from the following [tutorial](http://darribas.org/gds15/content/labs/lab_03.html)
+Map the Scottish and Welsh Constituency Regions
 
 #### Key Skills/Technologies used:
 * Python
     * Geopandas
-    * Matplotlib
-    * Pysal
+    * Os
+    * Pandas
 
 #### Code and Data:
 [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%203.ipynb)
+[Data](https://osdatahub.os.uk/downloads/open/BoundaryLine)
 
 #### Notes:
-* 
+* Inspired by this Stack Exchange [discussion](https://gis.stackexchange.com/questions/68904/area-boundaries-london)
 
 [Back to top](#30-day-map-challenge-2023)
