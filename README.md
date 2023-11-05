@@ -25,6 +25,7 @@ Interactive maps can be found on my 30 Day Map Challenge 2023 [site](https://vik
 * CSS
 
 ### New Languages and Software:
+* Python Pysal
 
 ***
 
