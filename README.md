@@ -72,3 +72,23 @@ Plot the walking paths around the City of London in an artistic way
 * Inspired by last year's network [map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#network)
 
 [Back to top](#30-day-map-challenge-2023)
+
+3. ### Polygons
+![Polygons Map]( "Day 3 - Polygons Map")
+
+#### Plan:
+Map the islands of Orkney using some of the steps from the following [tutorial](http://darribas.org/gds15/content/labs/lab_03.html)
+
+#### Key Skills/Technologies used:
+* Python
+    * Geopandas
+    * Matplotlib
+    * Pysal
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%203.ipynb)
+
+#### Notes:
+* 
+
+[Back to top](#30-day-map-challenge-2023)
