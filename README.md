@@ -120,7 +120,7 @@ Devastatingly, at the time of producing this map, there have been 518.
 [Back to top](#30-day-map-challenge-2023)
 
 5. ### Analog Map
-![Map Video](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%205.mp4 "Day 5 Map Video")
+[Map Video](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%205.mp4 "Day 5 Map Video")
 ![Analog Map Part A](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%205%20A.jpg?raw=true "Day 5 - Analog Map Part A")
 
 ![Analog Map Part B](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%205%20B.jpg?raw=true "Day 5 - Analog Map Part B")
