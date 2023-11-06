@@ -93,3 +93,28 @@ Map the Scottish and Welsh Constituency Regions
 * Inspired by this Stack Exchange [discussion](https://gis.stackexchange.com/questions/68904/area-boundaries-london)
 
 [Back to top](#30-day-map-challenge-2023)
+
+4. ### A Bad Map
+![Bad Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%204.png?raw=true "Day 4 - A Bad Map")
+
+#### Plan:
+Map the locations of all the mass shootings in the USA in 2023.
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Plotly
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%204.ipynb)
+[Data](https://en.wikipedia.org/wiki/List_of_mass_shootings_in_the_United_States_in_2023#cite_note-272)
+
+#### Notes:
+I wanted to flip around the idea of a bad map. 
+Instead of a map which dosen't do it's job, or a map that looks a bit rubbish, I thought it would be an interesting change to do a map about a bad thing. 
+So this map illustrates all the locations where there have been mass shootings in the United States in 2023. 
+Devastatingly, at the time of producing this map, there have been 518.
+
+[Back to top](#30-day-map-challenge-2023)
