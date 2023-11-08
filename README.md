@@ -132,3 +132,23 @@ Draw a map of Asia on a Pumpkin
 Thought it would be amusing to use up a leftover Haloween pumpkin and fancied challenging myself to draw Asia given there are lots of interestingly shaped countries in the region.
 
 [Back to top](#30-day-map-challenge-2023)
+
+6. ### Asia
+![Thai Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/assets/87375580/c6b36dd8-3c87-49b7-b1f5-817814450349 "Day 6 - Asia Map")
+
+#### Plan:
+Illustrate the difference in tourism revenue between the different provences in Thailand
+
+#### Notes:
+This took me far far longer than anticipated and taught me quite a lot about translating SQL into Pandas
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Plotly
+    * Geopandas
+* SQL
+
+[Back to top](#30-day-map-challenge-2023)
