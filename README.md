@@ -157,3 +157,28 @@ Illustrate the difference in tourism revenue between the different provences in 
 This took me far far longer than anticipated and taught me quite a lot about translating SQL into Pandas
 
 [Back to top](#30-day-map-challenge-2023)
+
+7. ### Navigation
+![Thai Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/assets/87375580/c6b36dd8-3c87-49b7-b1f5-817814450349 "Day 6 - Asia Map")
+
+#### Plan:
+Illustrate the difference in tourism revenue between the different provences in Thailand
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%206.zip)
+[Tourism Data](https://www.kaggle.com/datasets/thaweewatboy/thailand-domestic-tourism-statistics/)
+[Geospatial Data](https://data.humdata.org/dataset/cod-ab-tha?)
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Plotly
+    * Geopandas
+* SQL
+
+#### Notes:
+This took me far far longer than anticipated and taught me quite a lot about translating SQL into Pandas
+
+[Back to top](#30-day-map-challenge-2023)
