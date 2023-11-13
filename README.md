@@ -182,3 +182,6 @@ Overall felt pretty frustrated by this map because I was very excited by the ide
 It's also pretty frustrating that this map has put me even further behind than I was in the challenge, and it looks really pretty basic and boring for my trouble.
 
 [Back to top](#30-day-map-challenge-2023)
+
+8. ### Africa
+
