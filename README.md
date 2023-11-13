@@ -185,3 +185,42 @@ It's also pretty frustrating that this map has put me even further behind than I
 
 8. ### Africa
 
+![Africa 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Afrikaans.png?raw=true "Day 8 - Africa (Afrikaans) Map")
+![Africa 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20ChichewaChewaNyanjaChinyanja.png?raw=true "Day 8 - Africa (ChichewaChewaNyanjaChinyanja) Map")
+![Africa 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20English.png?raw=true "Day 8 - Africa (English) Map")
+![Africa 4](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20IsiNdebele.png?raw=true "Day 8 - Africa (IsiNdebele) Map")
+![Africa 5](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20IsiXhosa.png?raw=true "Day 8 - Africa (IsiXhosa) Map")
+![Africa 6](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20IsiZulu.png?raw=true "Day 8 - Africa (IsiZulu) Map")
+![Africa 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Khoi_Nama_n_San_languages.png?raw=true "Day 8 - Africa (Khoi_Nama_&_San_languages) Map")
+![Africa 8](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Other.png?raw=true "Day 8 - Africa (Other) Map")
+![Africa 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Portuguese.png?raw=true "Day 8 - Africa (Portuguese) Map")
+![Africa 10](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Sepedi.png?raw=true "Day 8 - Africa (Sepedi) Map")
+![Africa 11](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Sesotho.png?raw=true "Day 8 - Africa (Sesotho) Map")
+![Africa 12](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Setswana.png?raw=true "Day 8 - Africa (Setswana) Map")
+![Africa 13](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Shona.png?raw=true "Day 8 - Africa (Shona) Map")
+![Africa 14](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20SiSwati.png?raw=true "Day 8 - Africa (SiSwati) Map")
+![Africa 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Sign_language.png?raw=true "Day 8 - Africa (Sign_language) Map")
+![Africa 16](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Tshivenda.png?raw=true "Day 8 - Africa (Tshivenda) Map")
+![Africa 17](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%208%20Xitsonga.png?raw=true "Day 8 - Africa (Xitsonga) Map")
+
+#### Plan:
+Map the usage of the different major languages in South Africa
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%208.zip)
+[Language Data](https://census.statssa.gov.za/assets/documents/2022/P03014_Census_2022_Statistical_Release.pdf)
+[Geospatial Data](https://data.humdata.org/dataset/cod-ab-zaf?)
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Plotly
+    * Geopandas
+* SQL
+
+#### Notes:
+I don't think I really anticipated making quite so many maps in one day, which is why I ended up keeping them very similar in format to the Thailand Map
+
+[Back to top](#30-day-map-challenge-2023)
