@@ -246,3 +246,27 @@ Recycling day 4 data to build a hexbin map
 Honestly I had an exhausting day today so I decided to go with something pretty simple and recycle my day 4 data.
 
 [Back to top](#30-day-map-challenge-2023)
+
+9. ### North America
+![Hexagon Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2010%20Full.png?raw=true "Day 10 - North America Map")
+
+#### Plan:
+Map the extent and ground ice levels of the permafrost areas in Canada
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Geopandas
+* Excel
+* Paint
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2010.ipynb)
+[Data](https://open.canada.ca/data/en/dataset/d1e2048b-ccff-5852-aaa5-b861bd55c367)
+
+#### Notes:
+Unfortunately the only data I could find is pretty out of date (pre 2000) but I'm quite proud of how this map turned out nonetheless.
+
+[Back to top](#30-day-map-challenge-2023)
