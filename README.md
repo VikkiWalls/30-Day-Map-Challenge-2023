@@ -247,7 +247,7 @@ Honestly I had an exhausting day today so I decided to go with something pretty 
 
 [Back to top](#30-day-map-challenge-2023)
 
-9. ### North America
+10. ### North America
 ![Hexagon Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2010%20Full.png?raw=true "Day 10 - North America Map")
 
 #### Plan:
@@ -268,5 +268,32 @@ Map the extent and ground ice levels of the permafrost areas in Canada
 
 #### Notes:
 Unfortunately the only data I could find is pretty out of date (pre 2000) but I'm quite proud of how this map turned out nonetheless.
+
+[Back to top](#30-day-map-challenge-2023)
+
+11. ### Retro
+![Retro Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2011%20Full.png?raw=true "Day 11 - Retro Map")
+
+#### Plan:
+Plot a retro issue! Counties consuming the most CFC's (which damage the Ozone Layer)
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Geopandas
+* Excel
+* Paint
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2011.ipynb)
+[Geospatial Data](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/)
+[CFC Data](https://www.nationmaster.com/country-info/stats/Environment/CFC/Consumption#)
+
+#### Notes:
+Very much an art focused rather than scientific focused map.
+Used Paint to add the retro visuals and the font used was Jokerman.
+Some of the data for countries didn't join properly - some of this was due to accesnts in the names in the geospatial data but there were other occasions which I could not solve.
 
 [Back to top](#30-day-map-challenge-2023)
