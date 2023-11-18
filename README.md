@@ -299,8 +299,8 @@ Some of the data for countries didn't join properly - some of this was due to ac
 [Back to top](#30-day-map-challenge-2023)
 
 12. ### South America
-![South America Map 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2012.png?raw=true "Day 11 - South America Map 1")
-![South America Map 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2012%20v2.png?raw=true "Day 11 - South America Map 2")
+![South America Map 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2012.png?raw=true "Day 12 - South America Map 1")
+![South America Map 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2012%20v2.png?raw=true "Day 12 - South America Map 2")
 
 #### Plan:
 Plot a relief map of the Chilean Andes
@@ -310,5 +310,20 @@ Plot a relief map of the Chilean Andes
 
 #### Code and Data:
 [Tiff Data](https://www.ncei.noaa.gov/maps/grid-extract/)
+
+[Back to top](#30-day-map-challenge-2023)
+
+13. ### Chloropleth
+![ Map ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2012.png?raw=true "Day 13 - ")
+
+
+#### Plan:
+
+
+#### Key Skills/Technologies used:
+
+
+#### Code and Data:
+
 
 [Back to top](#30-day-map-challenge-2023)
