@@ -314,16 +314,22 @@ Plot a relief map of the Chilean Andes
 [Back to top](#30-day-map-challenge-2023)
 
 13. ### Chloropleth
-![ Map ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2012.png?raw=true "Day 13 - ")
-
+![Chloropleth Map ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2013.png?raw=true "Day 13 - Chloropleth")
 
 #### Plan:
-
+Plot countries based on number of album sales by Taylor Swift
 
 #### Key Skills/Technologies used:
-
+* Python
+    * Os
+    * Pandas
+    * Matplotlib
+    * Geopandas
+    * Plotly
 
 #### Code and Data:
-
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2013.ipynb)
+[Sales Data](https://bestsellingalbums.org/artist/12748#TAYLOR%20SWIFT_total_sales_by_country)
+[Shapefile Data](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/)
 
 [Back to top](#30-day-map-challenge-2023)
