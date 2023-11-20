@@ -333,3 +333,25 @@ Plot countries based on number of album sales by Taylor Swift
 [Shapefile Data](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/)
 
 [Back to top](#30-day-map-challenge-2023)
+
+14. ### Europe
+![Europe Map ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2014.png?raw=true "Day 14 - Europe")
+
+#### Plan:
+Artistically plot some of the 'best' places in Norway to see the Northern Lights
+
+#### Key Skills/Technologies used:
+* Python
+    * Os
+    * Pandas
+    * Plotly
+* Mapbox Studio
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2014.ipynb)
+[Data](https://spacetourismguide.com/northern-lights-norway/)
+
+#### Notes:
+Custom mapbox base map built using Mapbox Studio.
+
+[Back to top](#30-day-map-challenge-2023)
