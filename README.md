@@ -309,7 +309,7 @@ Plot a relief map of the Chilean Andes
 * Aerialod
 
 #### Code and Data:
-[Tiff Data](https://www.ncei.noaa.gov/maps/grid-extract/)
+[Tif Data](https://www.ncei.noaa.gov/maps/grid-extract/)
 
 [Back to top](#30-day-map-challenge-2023)
 
