@@ -370,8 +370,8 @@ Inspired by [last year's](https://github.com/VikkiWalls/30-Day-Map-Challenge-202
 
 [Back to top](#30-day-map-challenge-2023)
 
-16. ### Oceana
-![Oceana Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2016%202.png?raw=true "Day 16 - Oceana Map")
+16. ### Oceania
+![Oceania Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2016%202.png?raw=true "Day 16 - Oceania Map")
 
 #### Plan:
 Plot a relief map of New Zealand and the surrounding seabed
