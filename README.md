@@ -369,3 +369,17 @@ Use Prettymaps to plot somewhere that looks interesting from above.
 Inspired by [last year's](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#data-openstreetmap) use of the prettymapp app
 
 [Back to top](#30-day-map-challenge-2023)
+
+16. ### Oceana
+![Oceana Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2016%202.png?raw=true "Day 16 - Oceana Map")
+
+#### Plan:
+Plot a relief map of New Zealand and the surrounding seabed
+
+#### Key Skills/Technologies used:
+* Aerialod
+
+#### Code and Data:
+[Tif Data](https://www.ncei.noaa.gov/maps/grid-extract/)
+
+[Back to top](#30-day-map-challenge-2023)
