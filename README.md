@@ -355,3 +355,17 @@ Artistically plot some of the 'best' places in Norway to see the Northern Lights
 Custom mapbox base map built using Mapbox Studio.
 
 [Back to top](#30-day-map-challenge-2023)
+
+15. ### Open Street Map
+![Open Street Map Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2015.png?raw=true "Day 15 - Open Street Map")
+
+#### Plan:
+Use Prettymaps to plot somewhere that looks interesting from above.
+
+#### Key Skills/Technologies used:
+* [Prettymapp](https://prettymapp.streamlit.app/)
+
+#### Notes:
+Inspired by [last year's](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#data-openstreetmap) use of the prettymapp app
+
+[Back to top](#30-day-map-challenge-2023)
