@@ -402,7 +402,7 @@ Make an artistic map of the river watercourses in Ontario.
 
 #### Notes:
 * Inspired by last year's lines [map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
-Really struggled with todays theme, I had several really cool ideas but there was eiter no data, no information on how to achieve the idea, or no time.
+Really struggled with todays theme, I had several really cool ideas but there was either no data, no information on how to achieve the idea, or no time.
 Beware of the data, that file is a monster, it took ages to run just the import statement!
 
 [!Run Time](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023-Live/blob/main/Day%2017%20import.png?raw=true "Screenshot of 14 minute runtime for the python import shapefile statement")
