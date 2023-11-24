@@ -383,3 +383,28 @@ Plot a relief map of New Zealand and the surrounding seabed
 [Tif Data](https://www.ncei.noaa.gov/maps/grid-extract/)
 
 [Back to top](#30-day-map-challenge-2023)
+
+17. ### Flow
+![Flow Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2017.png?raw=true "Day 17 - Flow Map")
+
+#### Plan:
+Make an artistic map of the river watercourses in Ontario.
+
+#### Key Skills/Technologies used:
+* Python
+    * Geopandas
+    * Os
+    * Pandas
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2017.ipynb)
+[Data](https://geohub.lio.gov.on.ca/datasets/a222f2996e7c454f9e8d028aa05995d3/explore?location=49.504553%2C-81.421437%2C5.28)
+
+#### Notes:
+* Inspired by last year's lines [map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
+Really struggled with todays theme, I had several really cool ideas but there was eiter no data, no information on how to achieve the idea, or no time.
+Beware of the data, that file is a monster, it took ages to run just the import statement!
+
+[!Run Time](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023-Live/blob/main/Day%2017%20import.png?raw=true "Screenshot of 14 minute runtime for the python import shapefile statement")
+
+[Back to top](#30-day-map-challenge-2023)
