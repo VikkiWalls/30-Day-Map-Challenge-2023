@@ -408,3 +408,55 @@ Beware of the data, that file is a monster, it took ages to run just the import 
 [!Run Time](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023-Live/blob/main/Day%2017%20import.png?raw=true "Screenshot of 14 minute runtime for the python import shapefile statement")
 
 [Back to top](#30-day-map-challenge-2023)
+
+18. ### Atmosphere
+![Atmosphere Map]( "Day 18 - Atmosphere Map")
+
+#### Plan:
+Illustrate where the most air pollution comes from in the world.
+
+#### Key Skills/Technologies used:
+
+
+#### Code and Data:
+[Code]()
+[Data]()
+
+#### Notes:
+
+
+[Back to top](#30-day-map-challenge-2023)
+
+19. ### 5 Minute Map
+![5 Minute Map]( "Day 19 - 5 Minute Map")
+
+#### Plan:
+
+
+#### Key Skills/Technologies used:
+
+
+#### Code and Data:
+[Code]()
+[Data]()
+
+#### Notes:
+
+
+[Back to top](#30-day-map-challenge-2023)
+
+20. ### Outdoors
+![Outdoors Map]( "Day 20 - Outdoors Map")
+
+#### Plan:
+Use the route planning feature on Strava to plot a route spelling out the word "outdoors", the record myself walking the route.
+
+#### Key Skills/Technologies used:
+* Strava
+* Walking
+* Patience!
+
+#### Notes:
+This honestly turned out far better than I thought it was going to.
+
+[Back to top](#30-day-map-challenge-2023)
