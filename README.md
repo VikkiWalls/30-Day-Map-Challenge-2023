@@ -446,7 +446,7 @@ Illustrate where the most air pollution comes from in the world.
 [Back to top](#30-day-map-challenge-2023)
 
 20. ### Outdoors
-![Outdoors Map]( "Day 20 - Outdoors Map")
+![Outdoors Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2020.png?raw=true "Day 20 - Outdoors Map")
 
 #### Plan:
 Use the route planning feature on Strava to plot a route spelling out the word "outdoors", the record myself walking the route.
