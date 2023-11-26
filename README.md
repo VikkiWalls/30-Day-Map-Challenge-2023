@@ -13,7 +13,7 @@ Interactive maps can be found on my 30 Day Map Challenge 2023 [site](https://vik
 ***
 [Day 1](#points)  ¦  [Day 2](#lines)   ¦  [Day 3](#polygons)   ¦  [Day 4](#a-bad-map) ¦  [Day 5](#analog-map) ¦  [Day 6](#asia) ¦  [Day 7](#navigation)  ¦  [Day 8](#africa)  ¦  [Day 9](#hexagons)   ¦  [Day 10](#north-america)
 
-[Day 11](#retro)  ¦  [Day 12](#south-america)  ¦  [Day 13](#choropleth) ¦  [Day 14](#europe)  ¦  [Day 15](#openstreetmap) ¦  [Day 16](#oceana)   ¦  [Day 17](#flow) ¦  [Day 18](#atmosphere) ¦  [Day 19](#5-minute-map)  ¦  [Day 20](#outdoors)
+[Day 11](#retro)  ¦  [Day 12](#south-america)  ¦  [Day 13](#choropleth) ¦  [Day 14](#europe)  ¦  [Day 15](#openstreetmap) ¦  [Day 16](#ceania)   ¦  [Day 17](#flow) ¦  [Day 18](#atmosphere) ¦  [Day 19](#5-minute-map)  ¦  [Day 20](#outdoors)
 
 [Day 21](#raster) ¦  [Day 22](#north-is-not-always-up)   ¦  [Day 23](#3d)  ¦  [Day 24](#black-&-white)   ¦  [Day 25](#antarctica)  ¦  [Day 26](#minimal)   ¦  [Day 27](#dot)  ¦  [Day 28](#is-this-a-chart-or-a-map)  ¦  [Day 29](#population)   ¦  [Day 30](#"my-favourite...")
 
@@ -477,5 +477,17 @@ Produce a contour map of the Mariana Trench
 
 #### Notes:
 This was a difficult map to produce given the scale of both the extent and the depth of the area. To have detailed contours, you have to zoom in very far, and you can't see the full extent of the trench. To see the full extent of the trench, you have to reduce the frequency of the contours.
+
+[Back to top](#30-day-map-challenge-2023)
+
+22. ### North is Not Always Up
+![North is Not Always Up Map]( "Day 22 - North is Not Always Up Map")
+
+#### Plan:
+Play around with locked positions in mapbox studio.
+
+#### Key Skills/Technologies used:
+* Mapbox Studio
+
 
 [Back to top](#30-day-map-challenge-2023)
