@@ -431,19 +431,17 @@ Visualised countries who were outwith the range of a box whisker chart of all th
 [Back to top](#30-day-map-challenge-2023)
 
 19. ### 5 Minute Map
-![5 Minute Map]( "Day 19 - 5 Minute Map")
+![5 Minute Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2019.png?raw=true "Day 19 - 5 Minute Map")
 
 #### Plan:
 Plot a map as fast as I can!
 
 #### Key Skills/Technologies used:
-
+* Python
+    * Osmnx
 
 #### Code and Data:
-[Code]()
-[Data]()
-
-#### Notes:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2019.ipynb)
 
 
 [Back to top](#30-day-map-challenge-2023)
