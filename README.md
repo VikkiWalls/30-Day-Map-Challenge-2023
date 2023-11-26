@@ -481,7 +481,7 @@ This was a difficult map to produce given the scale of both the extent and the d
 [Back to top](#30-day-map-challenge-2023)
 
 22. ### North is Not Always Up
-![North is Not Always Up Map]( "Day 22 - North is Not Always Up Map")
+![North is Not Always Up Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2022.png?raw=true "Day 22 - North is Not Always Up Map")
 
 #### Plan:
 Play around with locked positions in mapbox studio.
