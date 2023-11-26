@@ -410,20 +410,23 @@ Beware of the data, that file is a monster, it took ages to run just the import 
 [Back to top](#30-day-map-challenge-2023)
 
 18. ### Atmosphere
-![Atmosphere Map]( "Day 18 - Atmosphere Map")
+![Atmosphere Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2018.png?raw=true "Day 18 - Atmosphere Map")
 
 #### Plan:
-Illustrate where the most air pollution comes from in the world.
+Compare countries who produce the most total CO2 with countries that produce the most CO2 per capita
 
 #### Key Skills/Technologies used:
-
+* Python
+    * os
+    * Pandas
+    * Plotly
 
 #### Code and Data:
-[Code]()
-[Data]()
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2018.ipynb)
+[Data](https://www.worldometers.info/co2-emissions/co2-emissions-by-country/)
 
 #### Notes:
-
+Visualised countries who were outwith the range of a box whisker chart of all the countries values.
 
 [Back to top](#30-day-map-challenge-2023)
 
