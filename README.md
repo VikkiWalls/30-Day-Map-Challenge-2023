@@ -463,15 +463,16 @@ This honestly turned out far better than I thought it was going to.
 [Back to top](#30-day-map-challenge-2023)
 
 21. ### Raster
-![Raster Map]( "Day 21 - Raster Map")
+![Raster Map1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2021.1.png?raw=true "Day 21 - Raster Map1")
+![Raster Map2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2021.png?raw=true "Day 21 - Raster Map2")
 
 #### Plan:
-
+Produce a contour map of the Mariana Trench
 
 #### Key Skills/Technologies used:
-* 
+* QGIS
 
 #### Notes:
-
+This was a difficult map to produce given the scale of both the extent and the depth of the area. To have detailed contours, you have to zoom in very far, and you can't see the full extent of the trench. To see the full extent of the trench, you have to reduce the frequency of the contours.
 
 [Back to top](#30-day-map-challenge-2023)
