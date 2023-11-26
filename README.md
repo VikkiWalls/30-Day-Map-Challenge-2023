@@ -461,3 +461,17 @@ Use the route planning feature on Strava to plot a route spelling out the word "
 This honestly turned out far better than I thought it was going to.
 
 [Back to top](#30-day-map-challenge-2023)
+
+21. ### Raster
+![Raster Map]( "Day 21 - Raster Map")
+
+#### Plan:
+
+
+#### Key Skills/Technologies used:
+* 
+
+#### Notes:
+
+
+[Back to top](#30-day-map-challenge-2023)
