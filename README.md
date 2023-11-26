@@ -491,3 +491,17 @@ Play around with locked positions in mapbox studio.
 
 
 [Back to top](#30-day-map-challenge-2023)
+
+23. ### 3D
+![3D Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2023.png?raw=true "Day 23 - 3D Map")
+
+#### Plan:
+Plot a relief map of the Falkland Islands and the surrounding seabed
+
+#### Key Skills/Technologies used:
+* Aerialod
+
+#### Code and Data:
+[Tif Data](https://www.ncei.noaa.gov/maps/grid-extract/)
+
+[Back to top](#30-day-map-challenge-2023)
