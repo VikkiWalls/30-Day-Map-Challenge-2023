@@ -15,7 +15,7 @@ Interactive maps can be found on my 30 Day Map Challenge 2023 [site](https://vik
 
 [Day 11](#retro)  ¦  [Day 12](#south-america)  ¦  [Day 13](#choropleth) ¦  [Day 14](#europe)  ¦  [Day 15](#openstreetmap) ¦  [Day 16](#ceania)   ¦  [Day 17](#flow) ¦  [Day 18](#atmosphere) ¦  [Day 19](#5-minute-map)  ¦  [Day 20](#outdoors)
 
-[Day 21](#raster) ¦  [Day 22](#north-is-not-always-up)   ¦  [Day 23](#3d)  ¦  [Day 24](#black-&-white)   ¦  [Day 25](#antarctica)  ¦  [Day 26](#minimal)   ¦  [Day 27](#dot)  ¦  [Day 28](#is-this-a-chart-or-a-map)  ¦  [Day 29](#population)   ¦  [Day 30](#"my-favourite...")
+[Day 21](#raster) ¦  [Day 22](#north-is-not-always-up)   ¦  [Day 23](#3d)  ¦  [Day 24](#black-and-white)   ¦  [Day 25](#antarctica)  ¦  [Day 26](#minimal)   ¦  [Day 27](#dot)  ¦  [Day 28](#is-this-a-chart-or-a-map)  ¦  [Day 29](#population)   ¦  [Day 30](#"my-favourite...")
 
 ***
 
