@@ -507,7 +507,7 @@ Plot a relief map of the Falkland Islands and the surrounding seabed
 [Back to top](#30-day-map-challenge-2023)
 
 24. ### Black and White
-![Black and White Map]( "Day 24 - Black and White Map")
+![Black and White Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2024.png?raw=true "Day 24 - Black and White Map")
 
 #### Plan:
 Play with REM's and Lidar Data
