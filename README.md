@@ -505,3 +505,17 @@ Plot a relief map of the Falkland Islands and the surrounding seabed
 [Tif Data](https://www.ncei.noaa.gov/maps/grid-extract/)
 
 [Back to top](#30-day-map-challenge-2023)
+
+24. ### Black and White
+![Black and White Map]( "Day 24 - Black and White Map")
+
+#### Plan:
+Play with REM's and Lidar Data
+
+#### Key Skills/Technologies used:
+* QGIS
+
+#### Code and Data:
+[DEM Data](https://apps.nationalmap.gov/lidar-explorer/#/)
+
+[Back to top](#30-day-map-challenge-2023)
