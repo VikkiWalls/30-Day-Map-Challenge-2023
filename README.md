@@ -519,3 +519,20 @@ Play with REM's and Lidar Data
 [DEM Data](https://apps.nationalmap.gov/lidar-explorer/#/)
 
 [Back to top](#30-day-map-challenge-2023)
+
+24. ### Black and White
+![Antarctica Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2025.png?raw=true "Day 25 - Antarctica Map")
+
+#### Plan:
+Continue to play with REM's and Lidar Data and explore their depictions of glaciers and the striations they produce.
+
+#### Key Skills/Technologies used:
+* QGIS
+
+#### Code and Data:
+[DEM Data](https://arcticdem.apps.pgc.umn.edu/)
+
+#### Notes:
+The data was only at a resolution of 8m so things are a little rougher than I'd like.
+
+[Back to top](#30-day-map-challenge-2023)
