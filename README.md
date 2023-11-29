@@ -520,7 +520,7 @@ Play with REM's and Lidar Data
 
 [Back to top](#30-day-map-challenge-2023)
 
-24. ### Black and White
+25. ### Antarctica
 ![Antarctica Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2025.png?raw=true "Day 25 - Antarctica Map")
 
 #### Plan:
