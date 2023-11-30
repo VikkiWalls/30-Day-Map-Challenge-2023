@@ -536,3 +536,21 @@ Continue to play with REM's and Lidar Data and explore their depictions of glaci
 The data was only at a resolution of 8m so things are a little rougher than I'd like.
 
 [Back to top](#30-day-map-challenge-2023)
+
+26. ### Minimal
+![Minimal Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2026.png?raw=true "Day 26 - Minimal Map")
+
+#### Plan:
+Plot a minimalist road map of Verona, Italy
+
+#### Key Skills/Technologies used:
+* Python
+    * Osmnx
+
+#### Code and Data:
+[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Code/Day%2026.ipynb)
+
+#### Notes:
+Inspired by the Itallian person I could hear talking in the background as I made this
+
+[Back to top](#30-day-map-challenge-2023)
