@@ -554,3 +554,17 @@ Plot a minimalist road map of Verona, Italy
 Inspired by the Itallian person I could hear talking in the background as I made this
 
 [Back to top](#30-day-map-challenge-2023)
+
+26. ### Dot
+![Dot Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2027.png?raw=true "Day 27 - Dot Map")
+
+#### Plan:
+Draw size proportional dots for the provinces of Denmark
+
+#### Key Skills/Technologies used:
+* Microsoft Power Point
+
+#### Notes:
+To be honest I wasn't really sure what the difference between this "dot" theme and day 1's "points" theme was so I just tried to produce something that looked a bit different.
+
+[Back to top](#30-day-map-challenge-2023)
