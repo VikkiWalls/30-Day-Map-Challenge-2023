@@ -555,7 +555,7 @@ Inspired by the Itallian person I could hear talking in the background as I made
 
 [Back to top](#30-day-map-challenge-2023)
 
-26. ### Dot
+27. ### Dot
 ![Dot Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2023/blob/main/Map%20Images/Day%2027.png?raw=true "Day 27 - Dot Map")
 
 #### Plan:
